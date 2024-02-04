@@ -1,6 +1,6 @@
 # React Project with Chakra-UI, Axios, TypeScript
 
-A web application built with React, Chakra-UI, Axios, and TypeScript, designed to help you practice your React skills. This project features sorting, searching, filtering, and support for both dark and light themes.
+A web application built with React, Chakra-UI, Axios, and TypeScript, This project features sorting, searching, filtering, and support for both dark and light themes.
 
 ## Table of Contents
 
@@ -10,7 +10,7 @@ A web application built with React, Chakra-UI, Axios, and TypeScript, designed t
 
 ## Demo
 
-You can see a live demo of the project [here]().
+You can see a live demo of the project [(https://gaming-sqad.vercel.app/)].
 
 ## Features
 
