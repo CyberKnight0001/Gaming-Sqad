@@ -9,7 +9,6 @@ A web application built with React, Chakra-UI, Axios, and TypeScript, This proje
 - [Getting Started](#getting-started)
 
 ## Demo
-
 You can see a live demo of the project [(https://gaming-sqad.vercel.app/)].
 
 ## Features
